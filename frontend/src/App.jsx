@@ -1,4 +1,4 @@
-import Admin from "./Admin";
+import Admin from ".admin";
 import Contact from "./Contact";
 import Chatbot from "./Chatbot";
 import React, { useState, useEffect } from "react";
